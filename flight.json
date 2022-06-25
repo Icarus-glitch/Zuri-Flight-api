@@ -1,0 +1,75 @@
+[
+    {
+        "title": "canada",
+        "ti me": "1pm",
+        "price": 26000,
+        "date": "26-06-2022"
+    },
+    {
+        "title": "USA",
+        "time": "2pm",
+        "price": 25000,
+        "date": "27-06-2022"
+    },
+    {
+        "title": "Korea",
+        "time": "3pm",
+        "price": 24000,
+        "date": "28-06-2022"
+    },
+    {
+        "title": "China",
+        "time": "4pm",
+        "price": 24000,
+        "date": "29-06-2022"
+    },
+    {
+        "title": "London",
+        "time": "5pm",
+        "price": 20000,
+        "date": "30-06-2022"
+    },
+    {
+        "title": "Russia",
+        "time": "6pm",
+        "price": 20000,
+        "date": "31-06-2022"
+    },
+    {
+        "title": "SouthAfrica",
+        "time": "7pm",
+        "price": 2500,
+        "date": "01-07-2022"
+    },
+    {
+        "title": "Nigeria",
+        "time": "8pm",
+        "price": 2500,
+        "date": "02-07-2022"
+    },
+    {
+        "title": "Australia",
+        "time": "9pm",
+        "price": 30000,
+        "date": "03-07-2022"
+    },
+    {
+        "title": "Antartica",
+        "time": "10pm",
+        "price":30000,
+        "date": "04-07-2022"
+    },
+    {
+        "title": "Brazil",
+        "time": "11pm",
+        "price": 28000,
+        "date": "05-07-2022"
+    },
+    {
+        "title": "Columbia",
+        "time": "12am",
+        "price": 29000,
+        "date": "06-07-2022"
+    }
+
+]
